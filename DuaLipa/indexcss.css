@@ -1,0 +1,21 @@
+  @charset "utf-8"
+ *{
+	  margin:0px;
+	  padding:0px;
+	  
+	
+  }
+#titulo{
+	tex-aling:center;
+}
+
+body {
+	tex-aling:center;
+	display:block;
+    margin:center;
+}
+#cuerpo{
+	/*background-image:url(IMG/FondoGameloft.jpg);*/
+	h
+	margin:15px auto;
+	text-align:left;
